@@ -1,3 +1,5 @@
+# Changes I Made To Make This Project Better
+
 import cv2
 import numpy as np;
 from gpiozero import AngularServo
